@@ -13,10 +13,14 @@
 </h1>
 
 <div align="center">
-
-A website-based video player for sharing videos remotely and synchronously.
-
+  A website-based video player for sharing videos remotely and synchronously.
 </div>
+
+## Demo
+
+<p align="center">
+  <img width="700" src="./.images/demo.gif">
+</p>
 
 ## Features
 
@@ -126,6 +130,12 @@ Thanks to Sync Player for the core idea: Synchronizing the video playback by fre
 一个视频播放网站，可以远程一起看视频。
 
 </div>
+
+## 演示
+
+<p align="center">
+  <img width="700" src="./.images/demo.gif">
+</p>
 
 ## 特性
 
