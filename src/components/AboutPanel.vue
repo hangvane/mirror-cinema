@@ -25,7 +25,7 @@
         <a-button
           size="small"
           block
-          href="https://github.com/hangvane/sync-player/"
+          href="https://github.com/hangvane/mirror-cinema/"
           target="_blank"
         >
           Github

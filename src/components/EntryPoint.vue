@@ -36,7 +36,7 @@
             <template #icon>
               <github-outlined />
             </template>
-            <a href="https://github.com/hangvane/sync-player/" target="_blank">
+            <a href="https://github.com/hangvane/mirror-cinema/" target="_blank">
               Github
             </a>
           </a-menu-item>
