@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "vite.config.ts",
+    "build/**/*.ts",
+    "build/**/*.vue",
+    "package.json"
+  ]
+}
